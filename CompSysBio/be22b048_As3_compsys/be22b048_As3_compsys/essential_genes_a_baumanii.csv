@@ -1,0 +1,439 @@
+Locus,Type,Replicon,Strand,Codons,Gene,Product,Orthologue in ATCC 17978,Essentiality in ATCC 17978 (Wang et al. 2014)
+ABUW_0001,CDS,chromosome,F,465,dnaA,chromosomal replication initiator protein DnaA,A1S_0001,essential
+ABUW_0002,CDS,chromosome,F,382,dnaN,"DNA polymerase III, beta subunit",A1S_0002,essential
+ABUW_0004,CDS,chromosome,F,822,gyrB,"DNA gyrase, B subunit",A1S_0004,essential
+ABUW_0011,CDS,chromosome,F,111,-,iron-sulfur cluster assembly accessory protein,A1S_0011,essential
+ABUW_0014,CDS,chromosome,F,410,tyrS,tyrosyl-tRNA synthetase,A1S_0014,essential
+ABUW_0025,CDS,chromosome,R,320,fmt,methionyl-tRNA formyltransferase,A1S_3456,essential
+ABUW_0032,CDS,chromosome,R,38,-,hypothetical protein,pCP000521_042684,non-essential
+ABUW_0061,CDS,chromosome,R,297,dapA,dihydrodipicolinate synthase,A1S_3423,essential
+ABUW_0089,CDS,chromosome,R,612,glmS,glutamine-fructose-6-phosphate transaminase (isomerizing),A1S_3396*,essential
+ABUW_0090,CDS,chromosome,R,454,glmU,UDP-N-acetylglucosamine diphosphorylase/glucosamine-1- phosphate N-acetyltransferase,A1S_3393*,essential
+ABUW_0092,CDS,chromosome,R,305,thiL,thiamine-monophosphate kinase,A1S_3391,essential
+ABUW_0094,CDS,chromosome,R,156,ribH,"6,7-dimethyl-8-ribityllumazine synthase",A1S_3389,essential
+ABUW_0096,CDS,chromosome,R,429,-,hypothetical protein,A1S_3387,essential
+ABUW_0103,CDS,chromosome,F,283,psd,phosphatidylserine decarboxylase,A1S_3378,essential
+ABUW_0124,CDS,chromosome,F,627,parE,"DNA topoisomerase IV, B subunit",A1S_3359,essential
+ABUW_0146,CDS,chromosome,F,365,murG,undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase,A1S_3336,essential
+ABUW_0147,CDS,chromosome,F,482,murC,UDP-N-acetylmuramate--alanine ligase,A1S_3335,essential
+ABUW_0148,CDS,chromosome,F,308,ddlB,D-alanine--D-alanine ligase B,A1S_3334,essential
+ABUW_0149,CDS,chromosome,F,284,ftsQ,cell division protein FtsQ,A1S_3333,essential
+ABUW_0150,CDS,chromosome,F,420,ftsA,cell division protein FtsA,A1S_3332,essential
+ABUW_0151,CDS,chromosome,F,391,ftsZ,cell division protein FtsZ,A1S_3331,essential
+ABUW_0152,CDS,chromosome,F,300,lpxC,UDP-3-O-[3-hydroxymyristoyl] N- acetylglucosamine deacetylase,A1S_3330,essential
+ABUW_0162,CDS,chromosome,F,488,guaB,inosine-5'-monophosphate dehydrogenase,A1S_3321,essential
+ABUW_0163,CDS,chromosome,F,445,glmM,phosphoglucosamine mutase,A1S_3320,essential
+ABUW_0164,CDS,chromosome,F,218,pdxH,pyridoxamine 5'-phosphate oxidase,A1S_3319,essential
+ABUW_0167,CDS,chromosome,F,310,prfB,peptide chain release factor 2,A1S_3316,essential
+ABUW_0171,CDS,chromosome,F,430,kdtA,3-deoxy-D-manno-2-octulosonate transferase,A1S_3313,essential
+ABUW_0197,CDS,chromosome,F,193,ssb,single-strand binding protein,A1S_3287,essential
+ABUW_0278,CDS,chromosome,R,502,gltX,glutamyl-tRNA synthetase,A1S_3210*,essential
+ABUW_0282,CDS,chromosome,F,110,ftsL,cell division protein FtsL,A1S_3205,essential
+ABUW_0283,CDS,chromosome,F,610,ftsI,peptidoglycan glycosyltransferase,A1S_3204,essential
+ABUW_0284,CDS,chromosome,F,499,murE,UDP-N-acetylmuramyl-tripeptide synthetase,A1S_3203,essential
+ABUW_0285,CDS,chromosome,F,466,murF,"UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate--D-alanyl-D-alanyl ligase",A1S_3202,essential
+ABUW_0286,CDS,chromosome,F,372,mraY,phospho-N-acetylmuramoyl-pentapeptide-transferase,A1S_3201*,essential
+ABUW_0296,CDS,chromosome,F,360,aroB,3-dehydroquinate synthase,A1S_3187,essential
+ABUW_0311,CDS,chromosome,R,209,gmk,guanylate kinase,A1S_3170,essential
+ABUW_0312,CDS,chromosome,F,316,ispH,hydroxymethylbutenyl pyrophosphate reductase,A1S_3169,essential
+ABUW_0320,CDS,chromosome,F,83,rpsP,ribosomal protein S16,A1S_3164,essential
+ABUW_0322,CDS,chromosome,F,246,trmD,tRNA (guanine-N1)-methyltransferase,A1S_3162,essential
+ABUW_0323,CDS,chromosome,F,122,rplS,ribosomal protein L19,A1S_3161,essential
+ABUW_0349,CDS,chromosome,R,51,-,hypothetical protein,pCP000521_038894*,non-essential
+ABUW_0366,CDS,chromosome,R,689,glyS,"glycyl-tRNA synthetase, beta subunit",A1S_3119,essential
+ABUW_0367,CDS,chromosome,R,325,glyQ,"glycyl-tRNA synthetase, alpha subunit",A1S_3118,non-essential
+ABUW_0377,CDS,chromosome,R,316,hemF,"coproporphyrinogen III oxidase, aerobic",A1S_3108,essential
+ABUW_0378,CDS,chromosome,R,200,ribA,GTP cyclohydrolase II,A1S_3107,essential
+ABUW_0379,CDS,chromosome,F,634,dxs,1-deoxy-D-xylulose-5-phosphate synthase,A1S_3106,essential
+ABUW_0395,CDS,chromosome,R,857,plsB,glycerol-3-phosphate acyltransferase,A1S_3091,essential
+ABUW_0399,CDS,chromosome,R,258,-,GTP-binding protein,A1S_3087,non-essential
+ABUW_0405,CDS,chromosome,F,103,rpsJ,ribosomal protein S10,A1S_3081,essential
+ABUW_0406,CDS,chromosome,F,212,rplC,ribosomal protein L3,A1S_3080,essential
+ABUW_0407,CDS,chromosome,F,200,rplD,ribosomal protein L4/L1e,A1S_3079,essential
+ABUW_0408,CDS,chromosome,F,106,rplW,ribosomal protein L23,A1S_3078,essential
+ABUW_0409,CDS,chromosome,F,274,rplB,ribosomal protein L2,A1S_3077,essential
+ABUW_0410,CDS,chromosome,F,91,rpsS,ribosomal protein S19,pCP000521_038176,non-essential
+ABUW_0411,CDS,chromosome,F,109,rplV,ribosomal protein L22,A1S_3076,essential
+ABUW_0412,CDS,chromosome,F,250,rpsC,ribosomal protein S3,A1S_3075,essential
+ABUW_0413,CDS,chromosome,F,137,rplP,ribosomal protein L16,A1S_3074,essential
+ABUW_0414,CDS,chromosome,F,65,rpmC,ribosomal protein L29,A1S_3073,essential
+ABUW_0415,CDS,chromosome,F,85,rpsQ,ribosomal protein S17,A1S_3072,essential
+ABUW_0416,CDS,chromosome,F,122,rplN,ribosomal protein L14,A1S_3071,essential
+ABUW_0417,CDS,chromosome,F,105,rplX,ribosomal protein L24,A1S_3070,essential
+ABUW_0418,CDS,chromosome,F,178,rplE,ribosomal protein L5,A1S_3069,essential
+ABUW_0419,CDS,chromosome,F,101,rpsN,ribosomal protein S14,A1S_3068,essential
+ABUW_0420,CDS,chromosome,F,131,rpsH,ribosomal protein S8,A1S_3067,essential
+ABUW_0421,CDS,chromosome,F,177,rplF,ribosomal protein L6,A1S_3066,essential
+ABUW_0422,CDS,chromosome,F,116,rplR,ribosomal protein L18,A1S_3065,essential
+ABUW_0423,CDS,chromosome,F,165,rpsE,ribosomal protein S5,A1S_3064*,essential
+ABUW_0424,CDS,chromosome,F,58,rpmD,ribosomal protein L30,A1S_3063,essential
+ABUW_0425,CDS,chromosome,F,146,rplO,ribosomal protein L15,A1S_3062,essential
+ABUW_0426,CDS,chromosome,F,452,secY,"preprotein translocase, SecY subunit",A1S_3061,essential
+ABUW_0427,CDS,chromosome,F,38,rpmJ,ribosomal protein L36,A1S_3060,non-essential
+ABUW_0428,CDS,chromosome,F,118,rpsM,ribosomal protein S13,A1S_3059,essential
+ABUW_0429,CDS,chromosome,F,128,rpsK,ribosomal protein S11,A1S_3058,essential
+ABUW_0430,CDS,chromosome,F,208,rpsD,ribosomal protein S4,A1S_3057,essential
+ABUW_0431,CDS,chromosome,F,335,rpoA,"DNA-directed RNA polymerase, alpha subunit",A1S_3056,essential
+ABUW_0432,CDS,chromosome,F,125,rplQ,ribosomal protein L17,A1S_3055,essential
+ABUW_0435,CDS,chromosome,F,85,-,hypothetical protein,A1S_3052,essential
+ABUW_0462,CDS,chromosome,R,158,-,hypothetical protein,A1S_3031,essential
+ABUW_0472,CDS,chromosome,F,277,pssA,CDP-diacylglycerol--serine O-phosphatidyltransferase,A1S_3017,essential
+ABUW_0483,CDS,chromosome,F,43,-,hypothetical protein,pCP000521_037482,non-essential
+ABUW_0493,CDS,chromosome,R,128,rpsI,ribosomal protein S9,A1S_3001,essential
+ABUW_0494,CDS,chromosome,R,142,rplM,ribosomal protein L13,A1S_3000,essential
+ABUW_0495,CDS,chromosome,F,324,pdxA,4-hydroxythreonine-4-phosphate dehydrogenase,A1S_2999,essential
+ABUW_0525,CDS,chromosome,R,204,ispZ,intracellular septation protein A,A1S_2921,essential
+ABUW_0529,CDS,chromosome,F,417,coaBC,phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase,A1S_2917,essential
+ABUW_0530,CDS,chromosome,R,321,secF,protein-export membrane protein SecF,A1S_2916*,essential
+ABUW_0531,CDS,chromosome,R,633,secD,protein-export membrane protein SecD,A1S_2914,essential
+ABUW_0588,CDS,chromosome,F,296,-,hypothetical protein,A1S_2903,non-essential
+ABUW_0598,CDS,chromosome,R,592,aspS,aspartyl-tRNA synthetase,A1S_2894,essential
+ABUW_0623,CDS,chromosome,F,298,accD,"acetyl-CoA carboxylase, carboxyl transferase, beta subunit",A1S_2869,essential
+ABUW_0624,CDS,chromosome,F,428,folC,folylpolyglutamate synthetase/dihydrofolate synthase,"A1S_2867*,A1S_2868*",essential
+ABUW_0629,CDS,chromosome,F,907,secA,"preprotein translocase, SecA subunit",A1S_2862,non-essential
+ABUW_0639,CDS,chromosome,R,336,-,"transcriptional regulator, AraC family",A1S_2851,essential
+ABUW_0666,CDS,chromosome,R,240,-,hypothetical protein,A1S_2824,essential
+ABUW_0674,CDS,chromosome,R,571,proS,prolyl-tRNA synthetase,A1S_2819,non-essential
+ABUW_0686,CDS,chromosome,R,377,dapE,succinyl-diaminopimelate desuccinylase,A1S_2810,essential
+ABUW_0712,CDS,chromosome,R,489,gatB,"glutamyl-tRNA(Gln) amidotransferase, B subunit",A1S_2784,essential
+ABUW_0713,CDS,chromosome,R,492,gatA,"glutamyl-tRNA(Gln) amidotransferase, A subunit",A1S_2783,essential
+ABUW_0714,CDS,chromosome,R,104,gatC,"glutamyl-tRNA(Gln) amidotransferase, C subunit",A1S_2782,essential
+ABUW_0747,CDS,chromosome,R,260,-,"putative transcriptional regulator, Cro/CI family",no orthologue,NA
+ABUW_0748,CDS,chromosome,F,58,-,hypothetical protein,A1S_3773,non-essential
+ABUW_0749,CDS,chromosome,F,88,-,hypothetical protein,no orthologue,NA
+ABUW_0799,CDS,chromosome,R,103,-,Arc domain protein DNA binding domain protein,no orthologue,NA
+ABUW_0812,CDS,chromosome,R,168,-,hypothetical protein,no orthologue,NA
+ABUW_0836,CDS,chromosome,R,959,valS,valyl-tRNA synthetase,"A1S_2742,A1S_2743*",essential
+ABUW_0847,CDS,chromosome,R,325,ispB,trans-hexaprenyltranstransferase,A1S_2732,essential
+ABUW_0848,CDS,chromosome,F,103,rplU,ribosomal protein L21,A1S_2731,essential
+ABUW_0849,CDS,chromosome,F,85,rpmA,ribosomal protein L27,A1S_2730,non-essential
+ABUW_0850,CDS,chromosome,F,231,lolA,outer membrane lipoprotein carrier protein LolA,A1S_2729,essential
+ABUW_0852,CDS,chromosome,F,423,serS,seryl-tRNA synthetase,A1S_2727*,essential
+ABUW_0860,CDS,chromosome,R,217,lipB,lipoate-protein ligase B,A1S_2704,essential
+ABUW_0861,CDS,chromosome,R,95,-,hypothetical protein,A1S_2705,essential
+ABUW_0862,CDS,chromosome,R,628,rpoD,RNA polymerase sigma factor sigma-70,A1S_2706,essential
+ABUW_0868,CDS,chromosome,F,130,sdhC,"succinate dehydrogenase, cytochrome b556 subunit",A1S_2711,essential
+ABUW_0869,CDS,chromosome,F,121,sdhD,"succinate dehydrogenase, hydrophobic membrane anchor protein",A1S_2712,essential
+ABUW_0870,CDS,chromosome,F,611,sdhA,"succinate dehydrogenase, flavoprotein subunit",A1S_2713,essential
+ABUW_0871,CDS,chromosome,F,236,sdhB,succinate dehydrogenase iron-sulfur subunit,A1S_2714,essential
+ABUW_0873,CDS,chromosome,F,398,sucB,"2-oxoglutarate dehydrogenase, E2 component, dihydrolipoamide succinyltransferase",A1S_2716,essential
+ABUW_0881,CDS,chromosome,R,337,trpS,tryptophanyl-tRNA synthetase,A1S_2720,essential
+ABUW_0899,CDS,chromosome,F,631,ftsH,cell division protein FtsH,A1S_2681,essential
+ABUW_0907,CDS,chromosome,F,282,folD,methenyltetrahydrofolate cyclohydrolase,A1S_2674,essential
+ABUW_0917,CDS,chromosome,F,96,groS,chaperonin GroS,A1S_2665,essential
+ABUW_0918,CDS,chromosome,F,544,groL,chaperonin GroL,A1S_2664,essential
+ABUW_0946,CDS,chromosome,F,130,-,hypothetical protein,A1S_2638,non-essential
+ABUW_0954,CDS,chromosome,F,281,dapF,diaminopimelate epimerase,A1S_2631,essential
+ABUW_0958,CDS,chromosome,F,249,etfB,electron transfer flavoprotein subunit beta,A1S_2628,essential
+ABUW_0959,CDS,chromosome,F,310,etfA,electron transfer flavoprotein subunit alpha,A1S_2627*,essential
+ABUW_0960,CDS,chromosome,F,904,gyrA,"DNA gyrase, A subunit",A1S_2626,non-essential
+ABUW_0969,CDS,chromosome,F,359,serC,phosphoserine aminotransferase,A1S_2617,essential
+ABUW_0974,CDS,chromosome,F,426,lolC,lipoprotein-releasing system transmembrane protein LolE,A1S_2612*,essential
+ABUW_0975,CDS,chromosome,F,228,lolD,"lipoprotein releasing system, ATP-binding protein",A1S_2611,essential
+ABUW_0977,CDS,chromosome,R,327,-,lipid A biosynthesis acyltransferase,A1S_2609,non-essential
+ABUW_0987,CDS,chromosome,R,106,-,hypothetical protein,A1S_2599,non-essential
+ABUW_0990,CDS,chromosome,R,323,fbp1,"fructose-1,6-bisphosphatase",A1S_2596,non-essential
+ABUW_0997,CDS,chromosome,R,135,ybgC,tol-pal system-associated acyl-CoA thioesterase,A1S_2590,essential
+ABUW_1004,CDS,chromosome,F,41,-,hypothetical protein,pCP000521_031615,non-essential
+ABUW_1007,CDS,chromosome,F,210,-,nicotinamide-nucleotide adenylyltransferase,A1S_2547,essential
+ABUW_1014,CDS,chromosome,R,273,dapD,"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase",A1S_2539,essential
+ABUW_1024,CDS,chromosome,F,199,tmk,thymidylate kinase,A1S_2528,essential
+ABUW_1030,CDS,chromosome,F,275,lepB,signal peptidase I,A1S_2521,essential
+ABUW_1033,CDS,chromosome,F,342,era,GTP-binding protein Era,A1S_2518,essential
+ABUW_1036,CDS,chromosome,F,241,pdxJ,pyridoxal phosphate biosynthetic protein PdxJ,A1S_2516,essential
+ABUW_1050,CDS,chromosome,F,485,gap,glyceraldehyde-3-phosphate dehydrogenase,A1S_2501,essential
+ABUW_1053,CDS,chromosome,F,406,-,GTP-binding protein Obg/CgtA,A1S_2498,non-essential
+ABUW_1097,CDS,chromosome,F,203,thiE,thiamine-phosphate pyrophosphorylase,A1S_2465,essential
+ABUW_1098,CDS,chromosome,F,432,hemL,"glutamate-1-semialdehyde-2,1-aminomutase",A1S_2464,essential
+ABUW_1104,CDS,chromosome,F,356,-,oxidoreductase,A1S_2459,essential
+ABUW_1105,CDS,chromosome,F,364,-,fatty acid desaturase,A1S_2458,essential
+ABUW_1122,CDS,chromosome,R,462,purB,adenylosuccinate lyase,A1S_2441,essential
+ABUW_1124,CDS,chromosome,R,377,trmU,tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase,A1S_2439*,essential
+ABUW_1141,CDS,chromosome,F,189,efp,translation elongation factor P,A1S_2419,essential
+ABUW_1183,CDS,chromosome,F,51,-,hypothetical protein,pCP000521_029637,non-essential
+ABUW_1190,CDS,chromosome,F,357,hemE,uroporphyrinogen decarboxylase,A1S_2370,essential
+ABUW_1195,CDS,chromosome,R,184,folE,GTP cyclohydrolase I,A1S_2366,essential
+ABUW_1207,CDS,chromosome,F,471,glnA,"glutamine synthetase, type I",A1S_2352*,essential
+ABUW_1209,CDS,chromosome,F,292,ubiA,4-hydroxybenzoate polyprenyl transferase,A1S_2349,essential
+ABUW_1219,CDS,chromosome,R,412,cca,tRNA nucleotidyl transferase,A1S_2339,essential
+ABUW_1230,CDS,chromosome,R,44,-,hypothetical protein,pCP000521_029012,non-essential
+ABUW_1235,CDS,chromosome,F,250,rpsB,ribosomal protein S2,A1S_2323*,essential
+ABUW_1236,CDS,chromosome,F,291,tsf,translation elongation factor Ts,A1S_2322,non-essential
+ABUW_1265,CDS,chromosome,R,248,-,peptidase S24 S26A and S26B,no orthologue,NA
+ABUW_1333,CDS,chromosome,F,417,glyA,glycine hydroxymethyltransferase,A1S_2307,essential
+ABUW_1337,CDS,chromosome,F,57,-,hypothetical protein,pCP000521_028714,non-essential
+ABUW_1348,CDS,chromosome,R,259,-,ferredoxin--NADP(+) reductase,A1S_2293,essential
+ABUW_1359,CDS,chromosome,F,302,-,NAD(+) kinase,A1S_2283,non-essential
+ABUW_1366,CDS,chromosome,F,756,-,hypothetical protein,A1S_2276,non-essential
+ABUW_1375,CDS,chromosome,R,288,rpoH,alternative sigma factor RpoH (EsvH),A1S_2262,essential
+ABUW_1381,CDS,chromosome,F,357,gpsA,glycerol-3-phosphate dehydrogenase (NAD(P)+),A1S_2257,essential
+ABUW_1448,CDS,chromosome,F,216,-,hypothetical protein,A1S_2249,essential
+ABUW_1452,CDS,chromosome,R,71,rpsU,ribosomal protein S21,A1S_2245,non-essential
+ABUW_1453,CDS,chromosome,F,336,-,metalloendopeptidase,A1S_2244,non-essential
+ABUW_1494,CDS,chromosome,F,165,-,hypothetical protein,no orthologue,NA
+ABUW_1516,CDS,chromosome,R,164,-,hypothetical protein,no orthologue,NA
+ABUW_1518,CDS,chromosome,R,168,-,"acetyltransferase, gnat family",A1S_3794,non-essential
+ABUW_1526,CDS,chromosome,R,67,-,hypothetical protein,A1S_2195,non-essential
+ABUW_1533,CDS,chromosome,R,89,fis,"transcriptional regulator, Fis-type",A1S_2186,essential
+ABUW_1545,CDS,chromosome,R,481,dnaB,replicative DNA helicase,A1S_2175*,essential
+ABUW_1547,CDS,chromosome,R,75,rpsR,ribosomal protein S18,A1S_2172,essential
+ABUW_1548,CDS,chromosome,R,127,rpsF,ribosomal protein S6,A1S_2171,essential
+ABUW_1549,CDS,chromosome,R,292,cyoE,protoheme IX farnesyltransferase,A1S_2170,non-essential
+ABUW_1550,CDS,chromosome,R,109,cyoD,cytochrome O ubiquinol oxidase subunit IV,A1S_2169,essential
+ABUW_1551,CDS,chromosome,R,206,cyoC,"cytochrome O ubiquinol oxidase, subunit III",A1S_2168,essential
+ABUW_1552,CDS,chromosome,R,663,cyoB,"cytochrome O ubiquinol oxidase, subunit I",A1S_2167,non-essential
+ABUW_1553,CDS,chromosome,R,350,cyoA,cytochrome O ubiquinol oxidase subunit II,A1S_2166,non-essential
+ABUW_1567,CDS,chromosome,F,362,prfA,peptide chain release factor 1,A1S_2154,essential
+ABUW_1578,CDS,chromosome,F,126,folB,dihydroneopterin aldolase,A1S_2144,essential
+ABUW_1588,CDS,chromosome,R,211,-,ubiquinone biosynthesis protein COQ7,A1S_2134,essential
+ABUW_1590,CDS,chromosome,F,906,-,hypothetical protein,A1S_2132,non-essential
+ABUW_1591,CDS,chromosome,F,1501,-,hypothetical protein,A1S_2131*,essential
+ABUW_1593,CDS,chromosome,F,879,acnB,aconitate hydratase 2,A1S_2128*,essential
+ABUW_1606,CDS,chromosome,F,151,-,hypothetical protein,A1S_2116,essential
+ABUW_1609,CDS,chromosome,F,168,hfq,host factor Hfq,A1S_3785,non-essential
+ABUW_1613,CDS,chromosome,R,239,lpxH,"UDP-2,3-diacylglucosamine hydrolase",A1S_2110,essential
+ABUW_1615,CDS,chromosome,F,575,glnS,glutaminyl-tRNA synthetase,A1S_2108,essential
+ABUW_1616,CDS,chromosome,R,37,-,hypothetical protein,pCP000521_026585,non-essential
+ABUW_1642,CDS,chromosome,R,60,-,hypothetical protein,no orthologue,NA
+ABUW_1653,CDS,chromosome,F,127,-,hypothetical protein,pCP000521_026195,non-essential
+ABUW_1680,CDS,chromosome,F,716,dnaX,DNA polymerase III subunit tau,A1S_2056,essential
+ABUW_1687,CDS,chromosome,F,344,murB,UDP-N-acetylenolpyruvoylglucosamine reductase,A1S_2050,essential
+ABUW_1696,CDS,chromosome,R,456,accC,"acetyl-CoA carboxylase, biotin carboxylase",A1S_2011,non-essential
+ABUW_1697,CDS,chromosome,R,139,accB,"acetyl-CoA carboxylase, biotin carboxyl carrier protein",A1S_2010,essential
+ABUW_1698,CDS,chromosome,R,151,aroQ,"3-dehydroquinate dehydratase, type II",A1S_2009,essential
+ABUW_1700*,pseudogene,chromosome,F,61.66666667,-,hypothetical protein (pseudogene: nonfunctional due to frameshift),pCP000521_025139*,non-essential
+ABUW_1711,CDS,chromosome,F,161,moaE,"molybdopterin converting factor, subunit 2",A1S_1997,non-essential
+ABUW_1718,CDS,chromosome,R,94,-,hypothetical protein,A1S_1990,essential
+ABUW_1719,CDS,chromosome,R,116,-,hypothetical protein,A1S_1989,essential
+ABUW_1720,CDS,chromosome,R,122,tusD,sulfur relay protein TusD/DsrE,A1S_1988,non-essential
+ABUW_1728,CDS,chromosome,F,160,ispF,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",A1S_1982,essential
+ABUW_1735,CDS,chromosome,F,242,pyrH,Uridylate kinase,A1S_1975,non-essential
+ABUW_1736,CDS,chromosome,F,184,frr,ribosome recycling factor,A1S_1974,essential
+ABUW_1737,CDS,chromosome,F,250,uppS,undecaprenyl diphosphate synthase,A1S_1973,essential
+ABUW_1738,CDS,chromosome,F,274,cdsA,phosphatidate cytidylyltransferase,A1S_1972,essential
+ABUW_1739,CDS,chromosome,F,398,dxr,1-deoxy-D-xylulose 5-phosphate reductoisomerase,A1S_1971,essential
+ABUW_1741,CDS,chromosome,F,841,bamA,outer membrane protein assembly complex BamA,A1S_1969,non-essential
+ABUW_1743,CDS,chromosome,F,356,lpxD,UDP-3-O-(3-hydroxymyristoyl) glucosamine N-acyltransferase,A1S_1967,essential
+ABUW_1744,CDS,chromosome,F,161,fabZ,beta-hydroxyacyl-(acyl-carrier-protein) dehydratase,A1S_1966,essential
+ABUW_1745,CDS,chromosome,F,262,lpxA,acyl-(acyl-carrier-protein)--UDP-N-acetylglucosamine O-acyltransferase,A1S_1965,essential
+ABUW_1789,CDS,chromosome,F,368,ftsY,signal recognition particle-docking protein FtsY,A1S_1930,non-essential
+ABUW_1807,CDS,chromosome,F,223,rpiA,ribose 5-phosphate isomerase,A1S_1915,essential
+ABUW_1825,CDS,chromosome,F,545,pyrG,CTP synthase,A1S_1900,essential
+ABUW_1826,CDS,chromosome,F,285,kdsA,2-dehydro-3-deoxyphosphooctonate aldolase,A1S_1899,essential
+ABUW_1827,CDS,chromosome,F,429,eno,phosphopyruvate hydratase (enolase),A1S_1898,essential
+ABUW_1830,CDS,chromosome,F,238,ispD,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase,A1S_1895,essential
+ABUW_2136,CDS,chromosome,R,363,aroC,chorismate synthase,A1S_1694,non-essential
+ABUW_2164,CDS,chromosome,R,391,lpxB,lipid-A-disaccharide synthase,A1S_1668,essential
+ABUW_2201,CDS,chromosome,F,157,iscR,iscRSUA operon repressor,A1S_1634,essential
+ABUW_2202,CDS,chromosome,F,405,iscS,cysteine desulfurase IscS,A1S_1633*,essential
+ABUW_2204,CDS,chromosome,F,106,iscA,iron-sulfur cluster assembly protein IscA,A1S_1630,essential
+ABUW_2205,CDS,chromosome,F,172,hscB,Fe-S protein assembly co-chaperone HscB,A1S_1629,essential
+ABUW_2206,CDS,chromosome,F,619,hscA,Fe-S protein assembly chaperone HscA,A1S_1628,non-essential
+ABUW_2207,CDS,chromosome,F,112,fdx,"ferredoxin, 2Fe-2S type",A1S_1627,essential
+ABUW_2227,CDS,chromosome,F,30,-,hypothetical protein,pCP000521_020439,non-essential
+ABUW_2241,CDS,chromosome,R,100,ihfB,"integration host factor, beta subunit",A1S_1573,non-essential
+ABUW_2242,CDS,chromosome,R,557,rpsA,ribosomal protein S1,A1S_1572,non-essential
+ABUW_2243,CDS,chromosome,R,228,cmk,cytidylate kinase,A1S_1571,essential
+ABUW_2256,CDS,chromosome,R,326,holB,DNA polymerase III delta prime subunit,A1S_1558,essential
+ABUW_2257,CDS,chromosome,R,253,kdsB,3-deoxy-manno-octulosonate cyidylyltransferase,A1S_1557,essential
+ABUW_2258,CDS,chromosome,R,336,lpxK,tetraacyldisaccharide 4'-kinase,A1S_1556,essential
+ABUW_2259,CDS,chromosome,R,575,msbA,lipid A export permease/ATP-binding protein MsbA,A1S_1555,essential
+ABUW_2267,CDS,chromosome,F,812,ostA,organic solvent tolerance protein,A1S_1547*,essential
+ABUW_2269,CDS,chromosome,R,345,fba,"fructose-bisphosphate aldolase, class II, Calvin cycle subtype",A1S_1544,essential
+ABUW_2271,CDS,chromosome,R,395,pgk,phosphoglycerate kinase,A1S_1543,essential
+ABUW_2295,CDS,chromosome,R,662,tkt,transketolase,A1S_1521*,essential
+ABUW_2296,CDS,chromosome,F,388,metK,methionine adenosyltransferase,A1S_1519,essential
+ABUW_2314,CDS,chromosome,F,59,-,hypothetical protein,A1S_3676,non-essential
+ABUW_2360,CDS,chromosome,F,1187,dnaE,DNA polymerase III subunit alpha,A1S_1465,non-essential
+ABUW_2514,CDS,chromosome,R,106,-,hypothetical protein,no orthologue,NA
+ABUW_2515,CDS,chromosome,F,50,-,hypothetical protein,no orthologue,NA
+ABUW_2608,CDS,chromosome,R,37,-,hypothetical protein,no orthologue,NA
+ABUW_2614,CDS,chromosome,R,88,-,hypothetical protein,no orthologue,NA
+ABUW_2615,CDS,chromosome,R,37,-,hypothetical protein,no orthologue,NA
+ABUW_2616,CDS,chromosome,R,222,-,hypothetical protein,no orthologue,NA
+ABUW_2625,CDS,chromosome,F,50,-,hypothetical protein,no orthologue,NA
+ABUW_2636,CDS,chromosome,F,107,fdxA,ferredoxin-1,A1S_1249,essential
+ABUW_2645,CDS,chromosome,R,248,lptB,"ABC transporter, ATP-binding protein",A1S_1240,non-essential
+ABUW_2646,CDS,chromosome,R,182,lptA,lipopolysaccharide transport periplasmic protein LptA,A1S_1239,essential
+ABUW_2647,CDS,chromosome,R,182,-,hypothetical protein,A1S_1238,essential
+ABUW_2648,CDS,chromosome,R,179,kdsC,3-deoxy-D-manno-octulosonate 8-phosphate phosphatase,A1S_1237,essential
+ABUW_2649,CDS,chromosome,R,325,kdsD,arabinose 5-phosphate isomerase,A1S_1236,essential
+ABUW_2650,CDS,chromosome,F,473,cysS,cysteinyl-tRNA synthetase,A1S_1235,non-essential
+ABUW_2672,CDS,chromosome,R,114,-,hypothetical protein,no orthologue,NA
+ABUW_2673,CDS,chromosome,R,152,-,hypothetical protein,no orthologue,NA
+ABUW_2694,CDS,chromosome,R,41,-,hypothetical protein,pCP000521_015798,non-essential
+ABUW_2695,CDS,chromosome,F,223,-,peptidase S24 S26A and S26B,A1S_1225,non-essential
+ABUW_2696,CDS,chromosome,R,77,-,hypothetical protein,A1S_1224,non-essential
+ABUW_2704,CDS,chromosome,R,35,-,hypothetical protein,pCP000521_015721,non-essential
+ABUW_2711,CDS,chromosome,F,166,benB,"benzoate 1,2-dioxygenase, small subunit",A1S_1214,non-essential
+ABUW_2745,CDS,chromosome,R,439,purA,adenylosuccinate synthetase,A1S_1179,non-essential
+ABUW_2747,CDS,chromosome,R,341,epd,glyceraldehyde 3-phosphate dehydrogenase,A1S_1177,essential
+ABUW_2748,CDS,chromosome,F,883,alaS,alanyl-tRNA synthetase,A1S_1176,essential
+ABUW_2749,CDS,chromosome,F,426,lysC,aspartate kinase,A1S_1142,essential
+ABUW_2776,CDS,chromosome,R,132,hcaR,"transcriptional regulator, MarR-family",A1S_1113,non-essential
+ABUW_2801,CDS,chromosome,F,172,-,"transcriptional regulator, AsnC family",A1S_1090,non-essential
+ABUW_2825,CDS,chromosome,F,344,pyrC,"dihydroorotase, homodimeric type",A1S_1066,non-essential
+ABUW_2829,CDS,chromosome,R,104,-,hypothetical protein,no orthologue,NA
+ABUW_2854,CDS,chromosome,R,410,-,"ubiquinone biosynthesis hydroxylase, UbiH/UbiF/VisC/COQ6 family",A1S_1041,essential
+ABUW_2855,CDS,chromosome,R,402,ubiH,"2-octaprenyl-6-methoxyphynol hydroxylase, FAD/NAD UbiH",A1S_1040,essential
+ABUW_2858,CDS,chromosome,F,186,-,hypothetical protein,A1S_1037,non-essential
+ABUW_2873,CDS,chromosome,R,217,adk,adenylate kinase,A1S_1023,essential
+ABUW_2891,CDS,chromosome,R,86,-,hypothetical protein,pCP000521_012891,non-essential
+ABUW_2899,CDS,chromosome,R,520,lysS,lysyl-tRNA synthetase,A1S_0998,essential
+ABUW_2913,CDS,chromosome,R,204,-,carbonate dehydratase,A1S_0984,non-essential
+ABUW_2919,CDS,chromosome,F,42,-,hypothetical protein,A1S_3586,non-essential
+ABUW_3022,CDS,chromosome,F,365,hemB,delta-aminolevulinic acid dehydratase,A1S_0906,non-essential
+ABUW_3033,CDS,chromosome,R,145,fur,ferric uptake regulation protein,A1S_0895,essential
+ABUW_3036,CDS,chromosome,R,355,-,hypothetical protein,A1S_0892,essential
+ABUW_3042,CDS,chromosome,R,150,dut,deoxyuridine 5'-triphosphate nucleotidohydrolase,A1S_0886,essential
+ABUW_3043,CDS,chromosome,R,679,rep,ATP-dependent DNA helicase,A1S_0885,essential
+ABUW_3044,CDS,chromosome,F,30,-,hypothetical protein,no orthologue,NA
+ABUW_3048,CDS,chromosome,F,240,minC,septum site-determining protein MinC,A1S_0881,non-essential
+ABUW_3050,CDS,chromosome,F,90,minE,cell division topological specificity factor MinE,A1S_0879,essential
+ABUW_3053,CDS,chromosome,R,1010,ftsK,DNA translocase FtsK,A1S_0876,non-essential
+ABUW_3061,CDS,chromosome,R,712,fusA,translation elongation factor G,A1S_0868,essential
+ABUW_3062,CDS,chromosome,R,156,rpsG,ribosomal protein S7,A1S_0867,essential
+ABUW_3063,CDS,chromosome,R,124,rpsL,ribosomal protein S12,A1S_0866,essential
+ABUW_3065,CDS,chromosome,F,409,fabB,3-oxoacyl-[acyl-carrier-protein] synthase 1,A1S_0863*,essential
+ABUW_3066,CDS,chromosome,F,150,-,hypothetical protein,A1S_0862,non-essential
+ABUW_3069,CDS,chromosome,F,541,nadE,glutamine-dependent NAD+ synthetase,A1S_0858*,essential
+ABUW_3081,CDS,chromosome,R,87,-,ferredoxin,pCP000521_010891,non-essential
+ABUW_3082,CDS,chromosome,R,163,coaD,pantetheine-phosphate adenylyltransferase,A1S_0845,essential
+ABUW_3088,CDS,chromosome,F,621,dnaG,DNA primase,A1S_0839*,essential
+ABUW_3089,CDS,chromosome,R,427,hemA,glutamyl-tRNA reductase,A1S_0837,essential
+ABUW_3091,CDS,chromosome,F,192,lolB,outer membrane lipoprotein LolB,A1S_0835,non-essential
+ABUW_3092,CDS,chromosome,F,277,ispE,4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase,A1S_0834,essential
+ABUW_3097,CDS,chromosome,F,316,prs,phosphoribosylpyrophosphate synthetase,A1S_0829,essential
+ABUW_3098,CDS,chromosome,F,98,rplY,ribosomal L25,A1S_0828,essential
+ABUW_3099,CDS,chromosome,F,193,pth,peptidyl-tRNA hydrolase,A1S_0827*,essential
+ABUW_3105,CDS,chromosome,F,255,thiD,bifunctional hydroxy-methylpyrimidine kinase/hydroxy-phosphomethylpyrimidine kinase,A1S_0821,essential
+ABUW_3107,CDS,chromosome,R,78,acpP,acyl carrier protein,A1S_0819,essential
+ABUW_3108,CDS,chromosome,R,244,fabG,3-oxoacyl-(acyl-carrier-protein) reductase,A1S_0818,essential
+ABUW_3109,CDS,chromosome,R,328,fabD,malonyl CoA-acyl carrier protein transacylase,A1S_0817,non-essential
+ABUW_3110,CDS,chromosome,R,61,rpmF,ribosomal protein L32,A1S_0816,non-essential
+ABUW_3111,CDS,chromosome,R,186,-,hypothetical protein,A1S_0815,non-essential
+ABUW_3127,CDS,chromosome,R,678,ligA,"DNA ligase, NAD-dependent",A1S_0799,essential
+ABUW_3128,CDS,chromosome,R,345,zipA,cell division protein ZipA,A1S_0798,essential
+ABUW_3132,CDS,chromosome,F,250,-,biotin-[acetyl-CoA-carboxylase] ligase,A1S_0794,essential
+ABUW_3133,CDS,chromosome,F,244,coaX,"pantothenate kinase, type III",A1S_0793,essential
+ABUW_3134,CDS,chromosome,R,469,ffh,signal recognition particle protein,"(pCP000521_010387,pCP000521_010394)*",essential
+ABUW_3160,CDS,chromosome,R,253,-,ferredoxin-NADP reductase,A1S_0769,essential
+ABUW_3165,CDS,chromosome,R,498,nuoN,NADH dehydrogenase I chain N,A1S_0764,essential
+ABUW_3166,CDS,chromosome,R,532,nuoM,NADH dehydrogenase I chain M membrane subunit,A1S_0763,essential
+ABUW_3167,CDS,chromosome,R,629,nuoL,NADH dehydrogenase I chain L,A1S_0762,essential
+ABUW_3168,CDS,chromosome,R,102,nuoK,NADH dehydrogenase I chain K,A1S_0761,non-essential
+ABUW_3169,CDS,chromosome,R,173,nuoJ,NADH dehydrogenase I chain J,A1S_0760,essential
+ABUW_3170,CDS,chromosome,R,180,nuoI,NADH dehydrogenase I chain I 2Fe-2S ferredoxin-related,A1S_0759,essential
+ABUW_3171,CDS,chromosome,R,338,nuoH,NADH dehydrogenase I chain H,A1S_0758,essential
+ABUW_3172,CDS,chromosome,R,894,nuoG,NADH dehydrogenase I chain G,A1S_0757,essential
+ABUW_3173,CDS,chromosome,R,443,nuoF,NADH dehydrogenase I chain F,A1S_0756,essential
+ABUW_3174,CDS,chromosome,R,169,nuoE,NADH dehydrogenase I chain E,A1S_0755,essential
+ABUW_3175,CDS,chromosome,R,595,nuoCD,NADH dehydrogenase I chain CD,A1S_0754,essential
+ABUW_3176,CDS,chromosome,R,225,nuoB,NADH dehydrogenase I chain B,A1S_0753,non-essential
+ABUW_3177,CDS,chromosome,R,183,nuoA,NADH dehydrogenase I chain A,A1S_0752,essential
+ABUW_3183,CDS,chromosome,F,944,nrdA,ribonucleoside-diphosphate reductase alpha subunit,A1S_0747,essential
+ABUW_3185,CDS,chromosome,F,427,nrdB,"ribonucleoside-diphosphate reductase, beta subunit",A1S_0746,essential
+ABUW_3192,CDS,chromosome,R,94,-,hypothetical protein,no orthologue,NA
+ABUW_3200,CDS,chromosome,R,39,-,hypothetical protein,pCP000521_009589,non-essential
+ABUW_3231,CDS,chromosome,R,228,rpe,ribulose-phosphate 3-epimerase,A1S_0705,essential
+ABUW_3236,CDS,chromosome,R,221,-,glycoprotease,A1S_0699,essential
+ABUW_3250,CDS,chromosome,R,418,murA,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,A1S_0685,essential
+ABUW_3270,CDS,chromosome,F,923,polA,DNA polymerase I,A1S_0612,essential
+ABUW_3273,CDS,chromosome,R,424,tilS,tRNA(Ile)-lysidine synthase,A1S_0609,essential
+ABUW_3274,CDS,chromosome,R,273,accA,"acetyl-CoA carboxylase, carboxyl transferase, alpha subunit",A1S_0608,essential
+ABUW_3277,CDS,chromosome,F,422,rho,transcription termination factor Rho,"(pCP000521_007250,pCP000521_007258)*",essential
+ABUW_3280,CDS,chromosome,R,793,pheT,"phenylalanyl-tRNA synthetase, beta subunit",A1S_0602,essential
+ABUW_3281,CDS,chromosome,R,326,pheS,"phenylalanyl-tRNA synthetase, alpha subunit",A1S_0601,essential
+ABUW_3284,CDS,chromosome,R,119,rplT,ribosomal protein L20,A1S_0597,essential
+ABUW_3285,CDS,chromosome,R,64,rpmI,ribosomal protein L35,pCP000521_007166,non-essential
+ABUW_3289,CDS,chromosome,R,106,infC,translation initiation factor IF-3,A1S_0593,essential
+ABUW_3290,CDS,chromosome,R,640,thrS,threonyl-tRNA synthetase,A1S_0592,essential
+ABUW_3295,CDS,chromosome,R,282,panC,pantoate--beta-alanine ligase,A1S_0587,essential
+ABUW_3297,CDS,chromosome,R,160,folK,2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase,A1S_0584,essential
+ABUW_3319,CDS,chromosome,F,381,-,"transcriptional regulator, HTH_3 family",no orthologue,NA
+ABUW_3359,CDS,chromosome,F,874,leuS,leucyl-tRNA synthetase,A1S_0542*,essential
+ABUW_3361,CDS,chromosome,F,329,holA,"DNA polymerase III, delta subunit",A1S_0539,essential
+ABUW_3365,CDS,chromosome,R,267,fabI,NADH-dependent enoyl-ACP reductase,A1S_0534,essential
+ABUW_3367,CDS,chromosome,R,188,orn,oligoribonuclease Orn,A1S_0532,essential
+ABUW_3372,CDS,chromosome,R,224,-,4'-phosphopantetheinyl transferase,A1S_0527,essential
+ABUW_3373,CDS,chromosome,R,469,-,small GTP-binding protein,A1S_0506,essential
+ABUW_3376,CDS,chromosome,R,430,hisS,histidyl-tRNA synthetase,A1S_0503,essential
+ABUW_3377,CDS,chromosome,R,371,ispG,4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase,A1S_0502,essential
+ABUW_3381,CDS,chromosome,R,143,ndk,nucleoside diphosphate kinase,A1S_0498,non-essential
+ABUW_3400,CDS,chromosome,R,437,clpX,"ATP-dependent Clp protease, ATP-binding subunit ClpX",A1S_0477,non-essential
+ABUW_3417,CDS,chromosome,F,272,lgt,prolipoprotein diacylglyceryl transferase,A1S_0460,essential
+ABUW_3420,CDS,chromosome,F,280,thyA,thymidylate synthase,A1S_0458,essential
+ABUW_3424,CDS,chromosome,R,134,-,biopolymer transport protein ExbD/TolR,A1S_0454,non-essential
+ABUW_3425,CDS,chromosome,R,206,-,MotA/TolQ/ExbB proton channel,A1S_0453,essential
+ABUW_3426,CDS,chromosome,R,251,-,TonB protein,A1S_0452,essential
+ABUW_3427,CDS,chromosome,R,287,purU,formyltetrahydrofolate deformylase,A1S_0451,non-essential
+ABUW_3430,CDS,chromosome,F,78,rpmB,ribosomal protein L28,A1S_0448,essential
+ABUW_3440,CDS,chromosome,R,878,topA,DNA topoisomerase I,A1S_0439,essential
+ABUW_3451,CDS,chromosome,F,372,asd,aspartate-semialdehyde dehydrogenase,A1S_0427,essential
+ABUW_3457,CDS,chromosome,F,73,infA,translation initiation factor IF-1,A1S_0421,essential
+ABUW_3498,CDS,chromosome,R,338,hemH,ferrochelatase,A1S_0382,essential
+ABUW_3502,CDS,chromosome,F,570,etfD,electron transfer flavoprotein-ubiquinone oxidoreductase (EsvG),A1S_0378*,essential
+ABUW_3504,CDS,chromosome,R,85,sirA,sulfurtransferase TusA,A1S_0376,essential
+ABUW_3506,CDS,chromosome,F,519,lnt,apolipoprotein N-acyltransferase,A1S_0373*,essential
+ABUW_3511,CDS,chromosome,F,742,priA,primosomal protein N`,A1S_0368,essential
+ABUW_3518,CDS,chromosome,R,697,pnp,polyribonucleotide nucleotidyltransferase,A1S_0361,non-essential
+ABUW_3519,CDS,chromosome,R,89,rpsO,ribosomal protein S15,A1S_0360,essential
+ABUW_3527,CDS,chromosome,F,315,ubiE,ubiquinone/menaquinone biosynthesis methyltransferase UbiE,A1S_0350,essential
+ABUW_3534,CDS,chromosome,F,945,phaAB,pH adaptation potassium efflux system transmembrane protein A,A1S_0343,essential
+ABUW_3535,CDS,chromosome,F,122,phaC,pH adaptation potassium efflux system protein C,A1S_0342,essential
+ABUW_3536,CDS,chromosome,F,603,phaD,pH adaptation potassium efflux system transmembrane protein D,A1S_0341,essential
+ABUW_3537,CDS,chromosome,F,175,phaE,pH adaptation potassium efflux system transmembrane protein E,A1S_0340,essential
+ABUW_3538,CDS,chromosome,F,91,phaF,pH adaptation potassium efflux system protein F,pCP000521_004048,non-essential
+ABUW_3541,CDS,chromosome,R,899,infB,translation initiation factor IF-2,"(pCP000521_004002,pCP000521_004026)*",essential
+ABUW_3542,CDS,chromosome,R,494,nusA,transcription elongation factor NusA,A1S_0335,essential
+ABUW_3548,CDS,chromosome,R,264,tpiA,triose-phosphate isomerase,A1S_0330,essential
+ABUW_3552,CDS,chromosome,F,198,coaE,dephospho-CoA kinase,A1S_0326,essential
+ABUW_3566,CDS,chromosome,R,195,pgsA,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,A1S_0312,essential
+ABUW_3589,CDS,chromosome,R,1397,rpoC,"DNA-directed RNA polymerase, beta' subunit",A1S_0288,essential
+ABUW_3590,CDS,chromosome,R,1362,rpoB,"DNA-directed RNA polymerase, beta subunit",A1S_0287,essential
+ABUW_3591,CDS,chromosome,R,123,rplL,ribosomal protein L7/L12,A1S_0286,essential
+ABUW_3592,CDS,chromosome,R,168,rplJ,ribosomal protein L10,A1S_0285,essential
+ABUW_3593,CDS,chromosome,R,231,rplA,ribosomal protein L1,A1S_0284,essential
+ABUW_3594,CDS,chromosome,R,142,rplK,ribosomal protein L11,A1S_0283,essential
+ABUW_3595,CDS,chromosome,R,177,nusG,transcription termination/antitermination factor NusG,A1S_0282,essential
+ABUW_3596,CDS,chromosome,R,146,secE,"preprotein translocase, SecE subunit",A1S_0281,essential
+ABUW_3613,CDS,chromosome,R,255,hemD,uroporphyrinogen-III synthase,A1S_0263,essential
+ABUW_3614,CDS,chromosome,R,314,hemC,porphobilinogen deaminase,A1S_0262,essential
+ABUW_3629,CDS,chromosome,R,398,ftsW,cell division protein FtsW,A1S_0246,essential
+ABUW_3630,CDS,chromosome,R,448,murD,UDP-N-acetylmuramoylalanine--D-glutamate ligase,A1S_0245,essential
+ABUW_3643,CDS,chromosome,R,515,gpmI,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase",A1S_0230,essential
+ABUW_3644,CDS,chromosome,R,356,-,permease,A1S_0229,essential
+ABUW_3645,CDS,chromosome,R,366,-,permease,A1S_0228,non-essential
+ABUW_3648,CDS,chromosome,F,212,-,hypothetical protein,A1S_0225,non-essential
+ABUW_3650,CDS,chromosome,R,219,ribE,"riboflavin synthase, alpha subunit",A1S_0223,non-essential
+ABUW_3652,CDS,chromosome,R,361,ribD,riboflavin biosynthesis protein RibD,A1S_0221,essential
+ABUW_3686,CDS,chromosome,R,175,ppa,inorganic diphosphatase,A1S_0200,essential
+ABUW_3690,CDS,chromosome,R,739,parC,"DNA topoisomerase IV, A subunit","(pCP000521_002415,pCP000521_002436)*",essential
+ABUW_3721,CDS,chromosome,R,176,def1,peptide deformylase,A1S_0168,essential
+ABUW_3724,CDS,chromosome,F,189,-,protein YrdC,A1S_0165,essential
+ABUW_3732,CDS,chromosome,R,464,atpD,"ATP synthase F1, beta subunit",A1S_0155,essential
+ABUW_3733,CDS,chromosome,R,289,atpG,"ATP synthase F1, gamma subunit AtpG",A1S_0154,essential
+ABUW_3734,CDS,chromosome,R,514,atpA,"ATP synthase F1, alpha subunit",A1S_0153,essential
+ABUW_3735,CDS,chromosome,R,178,atpH,"ATP synthase F1, delta subunit",A1S_0152,essential
+ABUW_3736,CDS,chromosome,R,156,atpF,"ATP synthase F0, B subunit",A1S_0151,essential
+ABUW_3737,CDS,chromosome,R,81,atpE,"ATP synthase F0, C subunit",A1S_0150,essential
+ABUW_3738,CDS,chromosome,R,291,atpB,"ATP synthase F0, A subunit",A1S_0148,essential
+ABUW_3747,CDS,chromosome,F,596,argS,arginyl-tRNA synthetase,"(pCP000521_001788,pCP000521_001794,pCP000521_001805)*",essential
+ABUW_3748,CDS,chromosome,F,208,-,hypothetical protein,A1S_0137,essential
+ABUW_3755,CDS,chromosome,R,522,guaA,GMP synthase,A1S_0130,non-essential
+ABUW_3827,CDS,chromosome,R,407,-,hypothetical protein,no orthologue,NA
+ABUW_3836,CDS,chromosome,R,513,mviN,integral membrane protein MviN,A1S_0046,essential
+ABUW_3847,CDS,chromosome,F,237,ubiG,3-demethylubiquinone-9 3-O-methyltransferase,A1S_0036*,essential
+ABUW_3850,CDS,chromosome,F,136,-,hypothetical protein,A1S_0033,non-essential
+ABUW_3861,CDS,chromosome,F,333,ribF,riboflavin biosynthesis protein RibF,"(pCP000521_000299,pCP000521_000305)*",essential
+ABUW_3862,CDS,chromosome,F,945,ileS,isoleucyl-tRNA synthetase,A1S_0020,essential
+ABUW_3863,CDS,chromosome,F,176,lspA,signal peptidase II,A1S_0019,essential
+ABUW_3879,CDS,chromosome,F,646,dnaK,chaperone protein DnaK,A1S_2960,essential
+ABUW_3903,CDS,chromosome,R,586,oxaA,inner membrane protein OxaA,A1S_2981*,essential
+ABUW_3905,CDS,chromosome,R,130,rnpA,ribonuclease P protein component,A1S_2983,non-essential
+ABUW_3906,CDS,chromosome,R,44,rpmH,ribosomal protein L34,A1S_2984,essential
+ABUW_4001,CDS,p1AB5075,F,391,repAci6,Replicase,no orthologue,NA
+ABUW_4024,CDS,p1AB5075,F,418,-,Transcriptional repressor protein,no orthologue,NA
+ABUW_4037,CDS,p1AB5075,R,99,-,DNA-binding protein,no orthologue,NA
+ABUW_4068,CDS,p1AB5075,F,104,-,hypothetical protein,no orthologue,NA
+ABUW_4123,CDS,p1AB5075,F,40,-,hypothetical protein,no orthologue,NA
